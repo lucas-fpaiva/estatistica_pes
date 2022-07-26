@@ -12,7 +12,7 @@ notebook: exploratory-m1
 
 ### Treino e teste dos modelos
 notebook MLP: 
-notebook LSTM: 
+notebook LSTM: [LSTM](https://github.com/lucas-fpaiva/estatistica_pes/blob/main/LSTM.ipynb)
 
 ### Testes de hipoteses
 
