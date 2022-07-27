@@ -8,8 +8,10 @@ notebook:  mot1vs3
 ## Abordagem 2: Comparação dos modelos MLP e LSTM
 
 ### Análise Exploratória
-notebook: [exploratory-m1](https://github.com/lucas-fpaiva/estatistica_pes/blob/main/exploratory-m1.ipynb)
 notebook preliminar: trab-est-lucas
+
+notebook principal: [exploratory-m1](https://github.com/lucas-fpaiva/estatistica_pes/blob/main/exploratory-m1.ipynb)
+
 
 ### Treino e teste dos modelos
 notebook MLP: [MLP](https://github.com/lucas-fpaiva/estatistica_pes/blob/main/MLP.ipynb)
