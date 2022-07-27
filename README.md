@@ -9,6 +9,7 @@ notebook:  mot1vs3
 
 ### Análise Exploratória
 notebook: [exploratory-m1](https://github.com/lucas-fpaiva/estatistica_pes/blob/main/exploratory-m1.ipynb)
+notebook preliminar: trab-est-lucas
 
 ### Treino e teste dos modelos
 notebook MLP: [MLP](https://github.com/lucas-fpaiva/estatistica_pes/blob/main/MLP.ipynb)
