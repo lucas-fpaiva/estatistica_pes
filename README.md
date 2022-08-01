@@ -1,11 +1,7 @@
 # Organização dos notebooks
 Códigos utilizados no trabalho de estatística avançada da Pós Graduação em Software da Embraer/CIN-UFPE
 
-
-## Abordagem 1: Comparação do tempo de falha entre o motor 1 e o motor 3
-notebook:  mot1vs3
-
-## Abordagem 2: Comparação dos modelos MLP e LSTM
+## Comparação dos modelos MLP e LSTM para predição de falhas em motores de jatos
 
 ### Análise Exploratória
 notebook preliminar: trab-est-lucas
@@ -21,3 +17,13 @@ notebook LSTM: [LSTM](https://github.com/lucas-fpaiva/estatistica_pes/blob/main/
 ### Testes de hipoteses
 
 notebook: test_lstm_vs_pmc
+
+## Abordagem estatistica para seleção de sensores
+
+notebook: exploratory-m1-leandro.ipynb
+
+## Comparação do tempo de falha entre o motor 1 e o motor 3
+notebook:  mot1vs3
+
+
+  
